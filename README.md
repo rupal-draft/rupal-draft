@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Rupal Paul!</h1>
 <p align="center">
-  <a href="[https://linkedin.com/in/your-username](https://linkedin.com/in/your-username](https://www.linkedin.com/in/rupal-paul-569343294/)">
+  <a href="https://www.linkedin.com/in/rupal-paul-569343294/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-username" alt="LinkedIn">
   </a>
   <a href="rupa.aiml.tmsl@ticollege.org">
@@ -30,8 +30,6 @@
   <br/><br/>
   <img src="https://img.icons8.com/office/48/000000/react.png"/> <br/><b>MERN Stack (MongoDB, Express.js, React.js, Node.js)</b>
   <br/><br/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/next-js.png"/> <br/><b>Next.js</b>
-  <br/><br/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <br/><b>HTML5 & CSS3</b>
 </div>
 
@@ -39,7 +37,7 @@
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png"/> <br/><b>Git</b>
   <br/><br/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code.png"/> <br/><b>Visual Studio Code</b>
+  
 </div>
 
 ### Databases
@@ -53,8 +51,8 @@
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/your-username]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/rupal-paul-569343294/))
-- Email: [youremail@example.com](rupa.aiml.tmsl@ticollege.org)
+- LinkedIn:https://www.linkedin.com/in/rupal-paul-569343294/
+- Email: rupa.aiml.tmsl@ticollege.org
 
 ---
 
