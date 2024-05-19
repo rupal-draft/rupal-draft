@@ -25,18 +25,22 @@
 ## 🔧 Skills
 
 ### Languages & Frameworks
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript (ES6+)
-<br/>
-<img src="https://img.icons8.com/office/48/000000/react.png"/> MERN Stack (MongoDB, Express.js, React.js, Node.js)
-<br/>
-<img src="https://img.icons8.com/color/48/000000/socket-io.png"/> Socket.IO
-<br/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML5 & CSS3
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <br/><b>JavaScript (ES6+)</b>
+  <br/><br/>
+  <img src="https://img.icons8.com/office/48/000000/react.png"/> <br/><b>MERN Stack (MongoDB, Express.js, React.js, Node.js)</b>
+  <br/><br/>
+  <img src="https://img.icons8.com/color/48/000000/socket-io.png"/> <br/><b>Socket.IO</b>
+  <br/><br/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <br/><b>HTML5 & CSS3</b>
+</div>
 
 ### Databases
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
-<br/>
-<img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <br/><b>MongoDB</b>
+  <br/><br/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png"/> <br/><b>MySQL</b>
+</div>
 
 ---
 
