@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi there, I'm Rupal Paul!</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/your-username">
+  <a href="[https://linkedin.com/in/your-username](https://linkedin.com/in/your-username](https://www.linkedin.com/in/rupal-paul-569343294/)">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-username" alt="LinkedIn">
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="rupa.aiml.tmsl@ticollege.org">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -35,6 +35,13 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <br/><b>HTML5 & CSS3</b>
 </div>
 
+### Tools
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/git.png"/> <br/><b>Git</b>
+  <br/><br/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code.png"/> <br/><b>Visual Studio Code</b>
+</div>
+
 ### Databases
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <br/><b>MongoDB</b>
@@ -46,8 +53,8 @@
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [linkedin.com/in/your-username]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/rupal-paul-569343294/))
+- Email: [youremail@example.com](rupa.aiml.tmsl@ticollege.org)
 
 ---
 
