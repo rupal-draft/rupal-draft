@@ -25,14 +25,18 @@
 ## 🔧 Skills
 
 ### Languages & Frameworks
-- JavaScript (ES6+)
-- MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- Socket.IO
-- HTML5 & CSS3
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript (ES6+)
+<br/>
+<img src="https://img.icons8.com/office/48/000000/react.png"/> MERN Stack (MongoDB, Express.js, React.js, Node.js)
+<br/>
+<img src="https://img.icons8.com/color/48/000000/socket-io.png"/> Socket.IO
+<br/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML5 & CSS3
 
 ### Databases
-- MongoDB
-- MySQL
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
+<br/>
+<img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL
 
 ---
 
@@ -44,4 +48,3 @@
 ---
 
 Feel free to reach out if you want to collaborate on projects, discuss tech, or just have a chat! 😊
-
