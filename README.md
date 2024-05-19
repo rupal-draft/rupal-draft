@@ -1,36 +1,47 @@
-Hello Developers  
-  
+<h1 align="center">👋 Hi there, I'm Rupal Paul!</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-username" alt="LinkedIn">
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-I am Rupal Paul
+<p align="center">3rd Year CSE AIML Student | Full Stack Web Developer</p>
 
- GitHub User's stars resume-not-updated
-About Myself
-I am prefinal year student pursing CSE-AIML. I am passionate about open source technologies and aspire to learn and contribute more to the community. I specialize in MLOps, DL and backend development. Currently I am diving into the world of Web3 and hoping to soon make a project on it 😉.
+---
 
-⚡ Familiar Technologies
-💻 Languages
-C C++ HTML5 Java JavaScript LaTeX Markdown Python Windows Terminal
+## 🚀 About Me
 
-📚 Frameworks, Version Control, Platforms and Libraries
-FastAPI Flask Django SASS React Docker GitHub Git
+🎓 I'm currently pursuing my Bachelor's in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
 
-☁️ Hosting/SaaS
-Azure Firebase Heroku Vercel Netlify
+💻 I'm passionate about building web applications and solving real-world problems using technology.
 
-💻 IDEs/Editors
-Visual Studio Code Visual Studio Sublime Text Jupyter Notebook Atom
+🌱 I'm constantly learning and exploring new technologies to expand my skill set.
 
-🎛️ Operating System
-Android Linux Ubuntu Windows 11
+---
 
-💾 Databases
-ApacheCassandra Firebase MongoDB MySQL SQLite
+## 🔧 Skills
 
-🖥️ ML/DL
-Matplotlib NumPy Pandas Plotly PyTorch scikit-learn SciPy Keras TensorFlow OpenCV
+### Languages & Frameworks
+- JavaScript (ES6+)
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- Socket.IO
+- HTML5 & CSS3
 
-🏆 Hackathons Won
+### Databases
+- MongoDB
+- MySQL
 
-Shebuilds HackTheMountains 3.0 Hackfest
-📊 GitHub Statistics
-Languages 
+---
+
+## 📫 Get in Touch
+
+- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+- Email: [youremail@example.com](mailto:youremail@example.com)
+
+---
+
+Feel free to reach out if you want to collaborate on projects, discuss tech, or just have a chat! 😊
+
