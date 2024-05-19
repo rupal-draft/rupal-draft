@@ -30,7 +30,7 @@
   <br/><br/>
   <img src="https://img.icons8.com/office/48/000000/react.png"/> <br/><b>MERN Stack (MongoDB, Express.js, React.js, Node.js)</b>
   <br/><br/>
-  <img src="[https://img.icons8.com/color/48/000000/socket-io.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png)"/> <br/><b>Socket.IO</b>
+  <img src="https://w7.pngwing.com/pngs/162/702/png-transparent-socket-io-node-js-express-js-npm-network-socket-github-angle-triangle-logo-thumbnail.png"/> <br/><b>Socket.IO</b>
   <br/><br/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <br/><b>HTML5 & CSS3</b>
 </div>
