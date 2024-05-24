@@ -1,59 +1,26 @@
-<h1 align="center">👋 Hi there, I'm Rupal Paul!</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rupal-paul-569343294/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-username" alt="LinkedIn">
-  </a>
-  <a href="rupa.aiml.tmsl@ticollege.org">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+# 💫 About Me:
+Hello!!!! My name is Rupal Paul, and I am a pre-final year undergraduate pursuing a degree in Computer Science and Engineering with a specialization in AI/ML. As a full-stack developer, I continuously update myself with emerging technologies. Additionally, I have a keen interest in data science and the field of AI/ML.<br><br>🔭 I’m currently working on expanding my expertise in AI/ML by engaging in various projects and research initiatives.<br><br>👯 I’m looking to collaborate on innovative projects that involve cutting-edge technologies in AI, machine learning, and full-stack development.<br><br>🤝 I’m looking for help with advancing my knowledge and skills in deep learning and natural language processing.<br><br>🌱 I’m currently learning about advanced machine learning algorithms, data analytics, and cloud computing.<br><br>💬 Ask me about full-stack development, AI/ML, and data science. I am always eager to share insights and knowledge in these areas.<br><br>⚡ Fun fact: I thrive in collaborative environments and am known for being consistent, contributing effectively, and being a reliable team player.<br><br>Feel free to reach out for any professional collaboration or discussion.
 
-<p align="center">3rd Year CSE AIML Student | Full Stack Web Developer</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rupal.paul.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupal.draft) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rupal-paul-569343294/) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rupal-draft&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rupal-draft&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupal-draft&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🎓 I'm currently pursuing my Bachelor's in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-💻 I'm passionate about building web applications and solving real-world problems using technology.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rupal-draft&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🌱 I'm constantly learning and exploring new technologies to expand my skill set.
-
----
-
-## 🔧 Skills
-
-### Languages & Frameworks
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <br/><b>JavaScript (ES6+)</b>
-  <br/><br/>
-  <img src="https://img.icons8.com/office/48/000000/react.png"/> <br/><b>MERN Stack (MongoDB, Express.js, React.js, Node.js)</b>
-  <br/><br/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <br/><b>HTML5 & CSS3</b>
-</div>
-
-### Tools and Cloud Platforms
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/git.png"/> <br/><b>Git</b>
-  <br/><br/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <br/><b>AWS</b>
-</div>
-
-### Databases
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <br/><b>MongoDB</b>
-  <br/><br/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png"/> <br/><b>MySQL</b>
-</div>
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rupal-draft&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Get in Touch
-
-- LinkedIn:https://www.linkedin.com/in/rupal-paul-569343294/
-- Email: rupa.aiml.tmsl@ticollege.org
-
----
-
-Feel free to reach out if you want to collaborate on projects, discuss tech, or just have a chat! 😊
